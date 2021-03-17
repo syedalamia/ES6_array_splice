@@ -1,0 +1,9 @@
+numbers.splice(kothay cut korbe, 
+erpore cut er por theke koita element remove korbe,
+10,12,13,19(eder jog kore dibo))
+
+
+
+* splice main array k change kore dibe
+
+*result e pabe jei 2 ta jinish remove kore dieche
